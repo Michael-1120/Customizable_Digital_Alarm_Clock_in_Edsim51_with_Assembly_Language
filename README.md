@@ -3,8 +3,8 @@
 Welcome to the **Customizable Digital Alarm Clock** project! This repository showcases an implementation of a digital alarm clock using the **8051 Microcontroller**, programmed in Assembly Language and simulated with the **EdSim51 Simulator**.  
 
 # Table of Contents
-- [Learning Objectives](#learning-objectives)
-- [Features](#features)
+- [Learning Objectives](#📚-learning-objectives)
+- [Features](#🌟features)
 - [Components Used](#components-used)
 - [Visuals](#visuals)
 - [Tools and Materials](#tools-and-materials)
