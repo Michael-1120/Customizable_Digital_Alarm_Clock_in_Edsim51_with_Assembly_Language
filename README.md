@@ -47,7 +47,7 @@ Welcome to the **Customizable Digital Alarm Clock** project! This repository sho
 ## 🛠️ Tools and Materials
 
 - **EdSim51 Simulator**: A virtual environment for programming and simulating the 8051 Microcontroller.  
-  Download here: [edsim51.com](https://www.edsim51.com/index.html)  
+  Download here: [edsim51.com](https://www.edsim51.com)  
 - **8051 Instruction Set**: Used for programming. Learn more: [Electronic Hub](https://www.electronicshub.org/8051-microcontroller-instruction-set/)  
 - **HD44780 LCD Instruction Set**: For configuring the LCD. Datasheet: [SparkFun](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)  
 
