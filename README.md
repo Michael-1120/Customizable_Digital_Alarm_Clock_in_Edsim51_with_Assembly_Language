@@ -2,7 +2,17 @@
 
 Welcome to the **Customizable Digital Alarm Clock** project! This repository showcases an implementation of a digital alarm clock using the **8051 Microcontroller**, programmed in Assembly Language and simulated with the **EdSim51 Simulator**.  
 
----
+# Table of Contents
+1. [Learning Objectives](#learning-objectives)
+2. [Features](#features)
+3. [Components Used](#components-used)
+4. [Visuals](#visuals)
+5. [Tools and Materials](#tools-and-materials)
+6. [How It Works](#how-it-works)
+7. [Running the Program](#running-the-program)
+8. [Results](#results)
+9. [Future Enhancements](#future-enhancements)
+10. [Conclusion](#conclusion)
 
 ## 📚 Learning Objectives
 
@@ -12,8 +22,6 @@ Welcome to the **Customizable Digital Alarm Clock** project! This repository sho
    - LED and LCD output interfaces.
    - DC motor as a timer/counter.
 3. Build a functional **Digital Clock** using virtual I/O interfaces in EdSim51.
-
----
 
 ## 🌟 Features
 
@@ -25,22 +33,16 @@ Welcome to the **Customizable Digital Alarm Clock** project! This repository sho
   - Display reminders (e.g., "Time to Wake Up!").
   - 24-hour or military time format.
 
----
-
 ## 🔧 Components Used
 
 - **Input**: Switch buttons (SW0–SW7), Keypad (keys 0–11).  
 - **Output**: 2-line LCD module.
 
----
-
 ## 🖼️ Visuals
 1. **EdSim51 Simulator**  
-   [Simulator](/EdSim51_GUI.PNG)
+![Simulator](/EdSim51_GUI.PNG)
 2. **EdSim51 Schematic Diagram**  
-   [Logic Diagram](/EdSim51_Schematic_Diagram.png)
-
----
+![Logic Diagram](/EdSim51_Schematic_Diagram.png)
 
 ## 🛠️ Tools and Materials
 
@@ -48,8 +50,6 @@ Welcome to the **Customizable Digital Alarm Clock** project! This repository sho
   Download here: [edsim51.com](https://www.edsim51.com/index.html)  
 - **8051 Instruction Set**: Used for programming. Learn more: [Electronic Hub](https://www.electronicshub.org/8051-microcontroller-instruction-set/)  
 - **HD44780 LCD Instruction Set**: For configuring the LCD. Datasheet: [SparkFun](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf)  
-
----
 
 ## 🚀 How It Works
 
@@ -59,8 +59,6 @@ Welcome to the **Customizable Digital Alarm Clock** project! This repository sho
    - Adjust time/date or enter reminders.  
    - Select modes (e.g., timer, clock).  
    - Perform actions like "Save" or "Return."  
-
----
 
 ## 💻 Running the Program
 
@@ -74,26 +72,17 @@ Welcome to the **Customizable Digital Alarm Clock** project! This repository sho
    *(Refer to the switch functionality illustration.)*
 4. Observe output on the simulated LCD module.
 
----
-
 ## 🎯 Results
 
 - Displays time in a 24-hour cycle.  
 - Alerts users with a blinking LED and alarm reminder.  
 - Seamless user interaction for customization.
 
----
-
 ## 🌱 Future Enhancements
 
 - Add day/month/year counter functionality.  
 - Implement advanced alarm features (e.g., snooze, multiple alarms).  
 
----
-
 ## 📝 Conclusion
 
 This project demonstrates the potential of the **8051 Microcontroller** in building a functional digital alarm clock using Assembly Language. By integrating various I/O components and leveraging the EdSim51 Simulator, the project provides an engaging learning experience in microcontroller programming.  
-
----
-
